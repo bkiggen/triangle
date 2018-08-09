@@ -1,0 +1,11 @@
+p.voting {
+  display: none;
+}
+
+p.underage {
+  display: none;
+}
+
+body {
+  text-align: center;
+}
