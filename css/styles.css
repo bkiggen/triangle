@@ -1,11 +1,19 @@
-p.voting {
-  display: none;
-}
-
-p.underage {
-  display: none;
-}
-
-body {
+/* h1 {
   text-align: center;
+} */
+
+.container {
+  text-align: center;
+}
+
+form {
+    display: inline-block;
+}
+
+h2 {
+  text-align: center;
+}
+
+.result {
+  text-align:center;
 }
